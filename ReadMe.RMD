@@ -1,0 +1,14 @@
+## new branch
+
+git init
+git config --global user.name "dtakale2"
+git config --global user.email "dipti_takale@persistent.com"
+git add .
+git status
+git commment -m ""
+git branch
+git branch -M main
+git branch
+git remote add origin https://github.com/dtakale2/.git
+git remote -v
+git push origin main
